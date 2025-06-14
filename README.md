@@ -14,3 +14,12 @@
   - Buat method `tampilkanData()` untuk menampilkan semua atribut. Gunakan `super.tampilkanData()` di class anak agar tidak mengulang kode.
 
 **3. Jalankan dan pastikan semua method `tampilkanData()` menampilkan data dengan benar.**
+
+## File
+[GPU.java](Utama_GPU.java)
+
+
+[Hewan.java](Utama_Hewan.java)
+
+
+[MobilBalap.java](Utama_MobilBalap.java)
